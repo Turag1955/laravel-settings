@@ -1,5 +1,5 @@
 {
-    "name": "smartisan/settings",
+    "name": "turag/laravel-settings",
     "description": "App & Models Settings for Laravel",
     "keywords": [
         "laravel-settings"
@@ -18,10 +18,10 @@
         "illuminate/support": "^11.0"
     },
     "require-dev": {
-        "laravel/pint": "^1.5",
-        "mockery/mockery": "^1.5",
+        "laravel/pint": "^1.13",
+        "mockery/mockery": "^1.6",
         "orchestra/testbench": "^9.0",
-        "phpunit/phpunit": "^10.0"
+        "phpunit/phpunit": "^11.0"
     },
     "autoload": {
         "psr-4": {
