@@ -13,15 +13,14 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "ext-json": "*",
-        "illuminate/database": "^10.0",
-        "illuminate/support": "^10.0"
+        "php": "^8.2",
+        "illuminate/database": "^11.0",
+        "illuminate/support": "^11.0"
     },
     "require-dev": {
         "laravel/pint": "^1.5",
         "mockery/mockery": "^1.5",
-        "orchestra/testbench": "^8.0",
+        "orchestra/testbench": "^9.0",
         "phpunit/phpunit": "^10.0"
     },
     "autoload": {
