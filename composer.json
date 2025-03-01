@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Turag1955\\LaravelSettings\\": "src/"
+            "Smartisan\\Settings\\": "src"
         },
         "files": [
             "src/Support/settings.php"
