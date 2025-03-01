@@ -48,7 +48,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Turag1955\\LaravelSettings\\SettingsServiceProvider"
+                "Smartisan\\Settings\\SettingsServiceProvider"
             ],
             "aliases": {
                 "Settings": "Smartisan\\Settings\\Facades\\Settings"
