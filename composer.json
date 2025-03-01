@@ -1,6 +1,8 @@
 {
-    "name": "smartisan/settings",
+    "name": "turag1955/laravel-settings",
     "description": "App & Models Settings for Laravel",
+    "type": "library",
+
     "keywords": [
         "laravel-settings"
     ],
@@ -25,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Smartisan\\Settings\\": "src"
+            "Turag1955\\LaravelSettings\\": "src/"
         },
         "files": [
             "src/Support/settings.php"
@@ -46,13 +48,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Smartisan\\Settings\\SettingsServiceProvider"
+                "Turag1955\\LaravelSettings\\SettingsServiceProvider"
             ],
             "aliases": {
                 "Settings": "Smartisan\\Settings\\Facades\\Settings"
             }
         }
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+"minimum-stability": "dev",
+"prefer-stable": true
 }
