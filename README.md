@@ -1,9 +1,5 @@
 # App & Models Settings for Laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/smartisan/laravel-settings.svg?style=flat-square)](https://packagist.org/packages/smartisan/laravel-settings)
-[![GitHub Tests Action Status](https://github.com/itsmohd/laravel-settings/workflows/run-tests/badge.svg)](https://github.com/itsmohd/laravel-settings/actions?query=workflow%3Arun-tests)
-[![Total Downloads](https://img.shields.io/packagist/dt/smartisan/laravel-settings.svg?style=flat-square)](https://packagist.org/packages/smartisan/laravel-settings)
-
 This package allows you to store application wide and model specific Laravel settings. Settings values
 are type-cast and stored properly. You can also define your own casts and store repository.
 
